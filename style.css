@@ -1,3 +1,7 @@
+#body {
+    scroll-behavior: smooth;
+}
+
 #fond_image {
     position: absolute;
     top:0;
