@@ -43,3 +43,33 @@
     top: 42%;
     left: 90%;
 }
+
+#img_2 {
+    position: absolute;
+    top: 12%;
+    left: 13%;
+    height: 75%;
+    width: 30%;
+}
+
+#img_3 {
+    position: absolute;
+    top: 12%;
+    left: 25%;
+    height: 75%;
+    width: 50%;
+}
+
+#img_4 {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    height: 35%;
+    width: 50%;
+}
+
+#link {
+    position: absolute;
+    top: 65%;
+    left: 32%;
+}
